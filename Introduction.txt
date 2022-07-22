@@ -1,0 +1,45 @@
+Latitudinal Biodiversity Gradients are macroecological patterns that define
+how taxonomic, phylogenetic and functional diversity are spatially distributed on Earth. Latitudinal Biodiversity Gradients have been
+useful for conservation biology because they help to prioritize regions at a global scale. Understanding
+how Latitudinal Biodiversity Gradients are shaped is an important challenge, especially in the current context of biodiversity loss
+and climate change. Traditionally, studies on Latitudinal Biodiversity Gradients have observed that species richness increased from
+polar to equatorial regions, but they are far from reaching a definitive understanding. A key
+reason is that Latitudinal Biodiversity Gradients have ignored the perceived indeterminacy of ecological interactions occurring at lower
+levels of biological organization, thus limiting our capacity to
+fully understand global patterns of diversity. The ACROSS project is intended to address this knowledge
+gap in (macro)ecology.
+A myriad of hypotheses exists for the Latitudinal Biodiversity Gradients but climate has been considered the most important
+mechanistic driver. The species-energy hypothesis postulates that species richness varies with
+climate because the number of individuals an area can support increases with increasing energy availability
+(greatest richness where it is warm and wet). However, the relative contributions of climate-species
+correlations continue to be debated since the climate variation is insufficient to fully account for the
+variation of species richness. Thus, there is a risk to infer the processes regulating local species
+diversity only from Latitudinal Biodiversity Gradients that focus on species richness, because macroecological patterns likely result
+from individual-level processes, such as consumption, respiration or predator-prey dynamics.
+Body size is a key trait that corelates with organism’s metabolic processes and can ultimately determine
+population dynamics, community stability, and food-web structure. Moreover, body size responds to
+macroecological patterns because increased temperature directly influences metabolic rates causing an
+overall shrinking of individual body size following body-size–temperature rules. Given the key role
+of body size in metabolic theory and bioenergetics, growing evidence suggests that the use of sizebased
+approaches allow a better understanding of biodiversity patterns, but to date this
+remains poorly implemented at global scales.
+A universal negative relationship between individual body size and abundance has emerged as a
+trait-based theory (here as size spectrum theory) for scaling from individual-level processes (respiration, consumption) to represent food webs and ecosystem properties (energy transfer; ecological status). The size spectrum theory is based upon the premise that the structure and
+functioning of food webs are determined by the metabolic capacity of individuals, and that
+metabolism is tightly linked to body size. Although recent studies investigated size spectra variations
+at large spatial scales, yet there is no consensus in developing a mechanistic understanding of
+the effects of climate on the size spectrum comprising multiple trophic levels and at different ecosystems.
+In this context, one fundamental challenge is to determine the link between climate–species patterns and
+size spectrum theory to reach an understanding on the response of community size structure to Latitudinal Biodiversity Gradients. The novelty of the proposal lays on assessing global patterns of biodiversity from one of the lowest
+biological level – the individuals – since the individuals-based processes leads to the emergence of global
+scale patterns. In ecology, all patterns are results or by-products of individuals and interactions between
+them but in macroecology, Latitudinal Biodiversity Gradients most often do not refer directly to individuals. Due to the universality of
+the scaling relationships between body size and metabolic processes across the animal kingdom,
+the proposal fits perfectly for the generality of the call bringing together multiple trophic levels (from
+invertebrates to fish) and ecosystem types (terrestrial, marine and freshwater). We will also (i) use a
+suite of advanced statistical procedures to evaluate size spectrum variations, and (ii) create a unique group
+of Early-Career-Researchers from field ecologists to modelers. Although challenging, we argue that the use of a meta-analytic
+approach has the potential to bring new insights into research dedicated to Latitudinal Biodiversity Gradients and size spectra. This
+requires extensive literature surveys (meta-analysis), team collaboration and advanced statistical
+procedures that will allow us to fully embrace our goals, exchange ideas on cutting-edge research and to forge new synergies between female and male ECRs coming from different
+geographical regions.
